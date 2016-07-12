@@ -11,12 +11,12 @@ if ($(window).width() <= 1280) {
 }
 
 // Variables
-    tag1       = $('.pl__all'),
-    tag2       = $('.place_your_tag_name_here'),
-    tag3       = $('.place_your_tag_name_here'),
-    tag4       = $('.place_your_tag_name_here'),
-    tag5       = $('.place_your_tag_name_here'),
-    tag6       = $('.place_your_tag_name_here');
+    tag1       = $('.全部文章'),
+    tag2       = $('.静心之美'),
+    tag3       = $('.奇文共赏'),
+    tag4       = $('.浅笑安然'),
+    tag5       = $('.禅意萦绕'),
+    tag6       = $('.握不住的沙，不如扬了它');
 var sidebar    = $('#sidebar'),
     container  = $('#post'),
     content    = $('#pjax'),
