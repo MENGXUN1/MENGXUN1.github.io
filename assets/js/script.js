@@ -11,12 +11,12 @@ if ($(window).width() <= 1280) {
 }
 
 // Variables
-    tag1       = $('.全部文章'),
-    tag2       = $('.静心之美'),
-    tag3       = $('.奇文共赏'),
-    tag4       = $('.浅笑安然'),
-    tag5       = $('.禅意萦绕'),
-    tag6       = $('.握不住的沙，不如扬了它');
+    tag1       = $('.all articles'),
+    tag2       = $('.beauty of meditation'),
+    tag3       = $('.enjoyed together'),
+    tag4       = $('.smile enron'),
+    tag5       = $('.zen linger'),
+    tag6       = $('.to raise');
 var sidebar    = $('#sidebar'),
     container  = $('#post'),
     content    = $('#pjax'),
